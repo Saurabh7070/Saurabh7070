@@ -3,9 +3,11 @@
 
 - 🌱 I’m currently learning **JavaScript React & Backend Developement**
 
-- 👨‍💻 All of my projects are available at [devsaurabh.netlify.app](devsaurabh.netlify.app)
+- 👨‍💻 All of my projects are available at [https://devsaurabh.netlify.app/](https://devsaurabh.netlify.app/)
 
 - 📫 How to reach me **xaurabhbharti7@gmail.com**
+
+- 📄 Know about my experiences [https://devsaurabh.netlify.app/](https://devsaurabh.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
